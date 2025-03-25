@@ -1,5 +1,3 @@
-Exercício 1
-
 ###O primeira entrega do projeto aluno online construído na disciplina tecnologia para back-end
 
 ##* Este documento descreve a configuração e a implementação da entidade Aluno em um projeto Spring Boot, 
